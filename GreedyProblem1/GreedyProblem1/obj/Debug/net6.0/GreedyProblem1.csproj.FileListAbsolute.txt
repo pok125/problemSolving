@@ -1,0 +1,15 @@
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\bin\Debug\net6.0\GreedyProblem1.exe
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\bin\Debug\net6.0\GreedyProblem1.deps.json
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\bin\Debug\net6.0\GreedyProblem1.runtimeconfig.json
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\bin\Debug\net6.0\GreedyProblem1.dll
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\bin\Debug\net6.0\GreedyProblem1.pdb
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\obj\Debug\net6.0\GreedyProblem1.csproj.AssemblyReference.cache
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\obj\Debug\net6.0\GreedyProblem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\obj\Debug\net6.0\GreedyProblem1.AssemblyInfoInputs.cache
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\obj\Debug\net6.0\GreedyProblem1.AssemblyInfo.cs
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\obj\Debug\net6.0\GreedyProblem1.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\obj\Debug\net6.0\GreedyProblem1.dll
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\obj\Debug\net6.0\refint\GreedyProblem1.dll
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\obj\Debug\net6.0\GreedyProblem1.pdb
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\obj\Debug\net6.0\GreedyProblem1.genruntimeconfig.cache
+D:\ProblemSolving\problemSolving\GreedyProblem1\GreedyProblem1\obj\Debug\net6.0\ref\GreedyProblem1.dll
