@@ -1,0 +1,15 @@
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\bin\Debug\net6.0\Implementation_Problem.exe
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\bin\Debug\net6.0\Implementation_Problem.deps.json
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\bin\Debug\net6.0\Implementation_Problem.runtimeconfig.json
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\bin\Debug\net6.0\Implementation_Problem.dll
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\bin\Debug\net6.0\Implementation_Problem.pdb
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\obj\Debug\net6.0\Implementation_Problem.csproj.AssemblyReference.cache
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\obj\Debug\net6.0\Implementation_Problem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\obj\Debug\net6.0\Implementation_Problem.AssemblyInfoInputs.cache
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\obj\Debug\net6.0\Implementation_Problem.AssemblyInfo.cs
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\obj\Debug\net6.0\Implementation_Problem.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\obj\Debug\net6.0\Implementation_Problem.dll
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\obj\Debug\net6.0\refint\Implementation_Problem.dll
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\obj\Debug\net6.0\Implementation_Problem.pdb
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\obj\Debug\net6.0\Implementation_Problem.genruntimeconfig.cache
+D:\ProblemSolving\Implementation_Problem\Implementation_Problem\obj\Debug\net6.0\ref\Implementation_Problem.dll
